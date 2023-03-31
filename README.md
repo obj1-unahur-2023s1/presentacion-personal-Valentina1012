@@ -1,6 +1,5 @@
-![Dibujo mio](./assets/yo.jpg)
+![Foto mia](./assets/foto.jpg)
 
-Un dibujo de mi :)
 
 # Presentación Valentina Alvarez
 
