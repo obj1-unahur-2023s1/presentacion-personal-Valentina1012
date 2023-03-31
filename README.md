@@ -1,35 +1,30 @@
-![Logo UNAHUR](./assets/UNAHUR.png)
+![Dibujo mio](./assets/yo.jpg)
 
-Bienvenidos a
-# Programación con objetos I
+Un dibujo de mi :)
 
-En esta materia aprenderán sobre la famosa POO _(OOP en inglés)_, un paradigma que propone como base **objetos** que tienen un **estado** y **comportamiento**.
-Para ello usaremos como herramienta el lenguaje Wollok.
+# Presentación Valentina Alvarez
 
-```
-object programacionConObjetos { 
-    method saludar() { 
-        return  "Bienvenidxs!" 
-    }
-}
-```
+Soy Valentina, tengo 20 años y soy estudiante de la UNAHUR desde el año pasado.
 
-## Datos de la cursada :book:
-* Modalidad Mixta
-* Horario comisión **turno noche**: Martes y Jueves 18hs.
-* Horario comisión **turno mañana**: Lunes y Jueves 8hs.
-* Este cuatrimestre los profesores somos Gerardo González, Lucas Spigariol y Hernán Coniglio
-* Además nos acompañan como colaboradores Valentino Chiappanni, Lucas Bonadeo, Matías Müller y Tobías Di Salvo.
+Me interesé en la informática desde que cursaba la secundaria y esa fue una de las principales razones por la que me anoté en esta universidad además de que me quedaba cerca.
 
-## Links importantes :monocle_face:
-- [x] [Página principal](https://obj1-unahur.github.io/) de la materia (no olviden entrar seguido!) 
-- [x] [Cronograma](https://docs.google.com/spreadsheets/d/1sZLzv_JN1kZeS35DMAUPCQhrWjenc_-VqbywLGje3B4/edit?usp=sharing) de clases.
-- [x] [Matricularse](https://discord.gg/dkTB8wff) y ver el canal de Discord.
-- [x] [Mumuki](https://mumuki.io/unahur-obj1)
+Estoy disfrutando cursar las diferentes materias de programación aunque a veces me cuesten un poco jaja.  
 
-### Referencias Markdown 
-* [Wikipedia](https://es.wikipedia.org/wiki/Markdown)
 
-* [Guía Ràpida](https://greg.schueler.us/doc/markdown.txt) de la sintaxis _(en inglés)_
 
-* [Emojis!](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) :sunglasses:
+## Materias que curso :desktop_computer:
+* Programación con objetos 1
+* Estructura de datos
+* Base de datos
+
+
+## Otras cosas que me gustan :sparkler:
+* Dibujar mientras escucho música.
+* Leer comics (manga, manhwa).
+* Ver videos de youtube variados.
+* Comer comidas dulces.
+
+## Algunos links
+
+* mail <valentiki15@gmail.com>
+* instagram <https://www.instagram.com/valu_draws/>
